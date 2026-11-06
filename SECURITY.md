@@ -9,4 +9,4 @@ As the primary security maintainer for this project, I take vulnerabilities seri
 * Exposed environment variables or unsafe volume mapping.
 * Packet spoofing or client-injection vulnerabilities related to the game client connection.
 
-Please report any exploits or security vulnerabilities directly to [Insert Your Email Here]. Do not open a public issue for security exploits to prevent zero-day abuse.
+Please report exploits or security vulnerabilities through GitHub's private vulnerability reporting on this repository (Security tab → Report a vulnerability). If that option is unavailable, open a pull request or leave a comment on this repository and I will follow up there. Do not post exploit details in a public issue, to prevent zero-day abuse.
